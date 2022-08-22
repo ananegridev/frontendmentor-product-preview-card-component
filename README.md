@@ -10,8 +10,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Page Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/solution-qr-code-component-56rFw_Ucqd))
-- Live Site URL: [Page Public](https://frontendmentor-qr-code-component-wine.vercel.app/)
+- Solution URL: [Page Frontend Mentor](https://www.frontendmentor.io/solutions/solution-product-preview-card-component-DJ9BqGRtN4)
+- Live Site URL: [Page Public](https://frontendmentor-product-preview-card-component-mu.vercel.app/)
 
 ### Built with
 

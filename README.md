@@ -6,7 +6,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](https://github.com/ananegridev/frontendmentor-qr-code-component/blob/main/img/desktop-design.jpg)
+![](https://github.com/ananegridev/frontendmentor-product-preview-card-component/blob/main/img/desktop-design.jpg)
 
 ### Links
 

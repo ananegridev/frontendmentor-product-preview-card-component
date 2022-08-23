@@ -34,7 +34,7 @@ main {
   background-color: var(--white);
 }
 
-main div, main picture {width: 50%;}
+main div {width: 50%;}
 
 h6 {
   font-size: 12px;
@@ -125,7 +125,7 @@ button img {width: 15px;}
     flex-direction: column;
   }
 
-  main div, main picture {width: 100%;}
+  main div {width: 100%;}
   
   .img-product {border-radius: 8px;}
 

@@ -13,31 +13,12 @@
     />
 
     <title>Frontend Mentor | Product preview card component</title>
-
-    <!-- picturefill.js -->
-    <script>
-      document.createElement("picture");
-    </script>
-    <script defer src="./picturefill.js" async></script>
-    <script defer src="./picturefill.min.js" async></script>
   </head>
   <body>
     <main>
-      <picture class="img-product">
-        <source
-          media="(max-width:600px)"
-          srcset="./img/image-product-mobile.jpg"
-        />
-        <source
-          media="(min-width:600px)"
-          srcset="./img/image-product-desktop.jpg"
-        />
-        <img
-          id="image"
-          src="./img/image-product-desktop.jpg"
-          alt="image of a perfume"
-        />
-      </picture>
+      <div class="img-product">
+        <img id="image" src="./img/image-product-desktop.jpg" alt="" />
+      </div>
 
       <div class="text-product">
         <h6>Perfume</h6>
@@ -67,5 +48,7 @@
         >Frontend Mentor</a
       >. Coded by <a href="https://github.com/ananegridev">ananegridev</a>.
     </div>
+
+    <script defer src="./script.js" defer></script>
   </body>
 </html>

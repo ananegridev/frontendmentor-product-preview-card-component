@@ -17,7 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - CSS custom properties
 - Flexbox
-- JS
+- picturefill.js
 
 ## Author
 
